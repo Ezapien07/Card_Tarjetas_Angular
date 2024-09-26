@@ -1,0 +1,11 @@
+body {
+  background: #0f2027; /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0f2027, #203a43, #2c5364); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+.titulo {
+  font-family: "Potta One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
